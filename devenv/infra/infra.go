@@ -11,7 +11,7 @@ import (
 
 	"dagger.io/dagger"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/kube"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/kube"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime/schema"
 	dynamicfake "k8s.io/client-go/dynamic/fake"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/kube"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/kube"
 )
 
 func TestClusterAvailable(t *testing.T) {

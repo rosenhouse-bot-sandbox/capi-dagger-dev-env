@@ -1,4 +1,4 @@
-module github.com/rosenhouse/capi-dagger-dev-env
+module github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env
 
 go 1.26.1
 

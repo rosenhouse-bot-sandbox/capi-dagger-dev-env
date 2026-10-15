@@ -1,4 +1,4 @@
-module github.com/rosenhouse/capi-dagger-dev-env/examples/greeting
+module github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/examples/greeting
 
 go 1.26.1
 

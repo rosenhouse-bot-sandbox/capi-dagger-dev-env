@@ -5,7 +5,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/bundle"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/bundle"
 )
 
 // Every unpinned image a package's config references must be locked by that package, and vice versa.
