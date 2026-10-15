@@ -12,10 +12,10 @@ import (
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/bundle"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/cli"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/kube"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/bundle"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/cli"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/kube"
 )
 
 // minimal configures testdata/minimal, a consumer with one command and one package.

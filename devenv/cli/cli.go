@@ -14,10 +14,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/control"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/e2e"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/state"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/control"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/e2e"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/state"
 )
 
 // Main runs the devenv command line for cfg's components and exits.

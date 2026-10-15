@@ -11,7 +11,7 @@ import (
 	"k8s.io/client-go/tools/clientcmd"
 	clientcmdapi "k8s.io/client-go/tools/clientcmd/api"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/kube"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/kube"
 )
 
 func TestNodesReadyWhenEveryNodeIsReady(t *testing.T) {

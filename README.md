@@ -41,7 +41,7 @@ After a change to the tool's API, bump the example's requirement once the change
 
 ## Use with your own controllers
 
-Add the tool to your module with `go get github.com/rosenhouse/capi-dagger-dev-env`.
+Add the tool to your module with `go get github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env`.
 Then write a `main` package that passes your commands and packages to `cli.Main`:
 
 ```go

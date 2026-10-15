@@ -21,14 +21,14 @@ import (
 	"golang.org/x/sync/errgroup"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/build"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/bundle"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/control"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/infra"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/kube"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/platform"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/ready"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/state"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/build"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/bundle"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/control"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/infra"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/kube"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/platform"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/ready"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/state"
 )
 
 // Options names an environment and says where it reports.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/control"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/control"
 )
 
 func TestRedeployWaitsForBringUp(t *testing.T) {

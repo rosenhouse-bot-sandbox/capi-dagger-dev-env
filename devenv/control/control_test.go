@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/control"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/control"
 )
 
 func TestRequestStreamsProgressAndSucceeds(t *testing.T) {

@@ -12,8 +12,8 @@ import (
 
 	"dagger.io/dagger"
 
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/build"
-	"github.com/rosenhouse/capi-dagger-dev-env/devenv/bundle"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/build"
+	"github.com/rosenhouse-bot-sandbox/capi-dagger-dev-env/devenv/bundle"
 )
 
 // Config describes the components a consumer develops in the environment.
